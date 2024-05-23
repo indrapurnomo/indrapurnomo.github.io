@@ -1,0 +1,7 @@
+body{
+    min-height: 2000px;
+}
+
+.content-below-sticky {
+    padding-top: 60px; 
+  }
